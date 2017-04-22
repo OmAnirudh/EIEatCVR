@@ -29,5 +29,5 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # **Books used**
-[CSE](http://www.amazon.in/Control-Systems-Engineering-Nagoor-kani/dp/B00PS09RUQ/ref=sr_1_5?s=books&ie=UTF8&qid=1492860761&sr=1-5)
+[Control Systems by Nagoor kani](http://www.amazon.in/Control-Systems-Engineering-Nagoor-kani/dp/B00PS09RUQ/ref=sr_1_5?s=books&ie=UTF8&qid=1492860761&sr=1-5)
 
